@@ -21,7 +21,7 @@ h1 {
 .content {
   position: absolute;
   top: 50%;
-  left: 40%;
+  left: 50%;
   margin: -32px 0 0 -145px;
 }
 .content::after, .content::before {
